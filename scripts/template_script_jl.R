@@ -28,3 +28,5 @@ jessuglygraph <- ggplot(sage_grouse, aes(x = year, y = comb_length_mm,
   ) +
  theme_minimal()
 jessuglygraph
+
+#jess did great! 

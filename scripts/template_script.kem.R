@@ -6,6 +6,7 @@
 #Last edited: 10 Aug 2023 (EB)
 
 ##what temperature do sage grouse freeze at?##
+##Can you freeze them in all life stages?##
 
 #Libraries
 library(tidyverse)

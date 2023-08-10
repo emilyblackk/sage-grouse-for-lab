@@ -7,6 +7,7 @@
 
 ##what temperature do sage grouse freeze at?##
 ##Can you freeze them in all life stages?##
+##ok weird##
 
 #Libraries
 library(tidyverse)

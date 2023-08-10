@@ -3,7 +3,7 @@
 
 #Sage grouse data - (Your name's) code
 #Created: 9 Aug 2023 (EB)
-#Last edited: 
+#Last edited: 10 Aug 2023 (EB)
 
 
 
@@ -14,3 +14,4 @@ library(tidyverse)
 
 #read in the data
 sage_grouse <- read.csv("data/sage_grouse_morphology.csv")
+
